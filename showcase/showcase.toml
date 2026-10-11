@@ -1,0 +1,15 @@
+[[media]]
+file = "rally.png"
+name = "A live spin rally"
+
+[[media]]
+file = "rally.json.gz"
+name = "A rally through the obstacles"
+
+[[media]]
+file = "title.png"
+name = "The title screen"
+
+[[media]]
+file = "pause.png"
+name = "Paused mid-match"
